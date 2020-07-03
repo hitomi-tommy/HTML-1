@@ -72,6 +72,9 @@ ul.top_menu {
 .side_menu li:hover{
   opacity: 0.6;
 }
+.side_menu li a:hover{
+  color: #000000;
+}
 .banner a:hover{
   opacity: 0.6;
 }
@@ -125,10 +128,4 @@ ul.top_menu {
 }
 .banner_content p img{
  width: 100%
-}
-.side_menu .point{
-  background-color: #FCECEC;
-}
-.side_menu .point a{
-  color: #4D4D4D;
 }

@@ -30,3 +30,6 @@
   /* display: inline-block; */
   width: 20px;
 }
+.point:hover{
+  opacity:0.6
+}
